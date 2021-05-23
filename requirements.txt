@@ -1,0 +1,10 @@
+pip~=21.0.1
+six~=1.15.0
+setuptools~=54.2.0
+grpcio
+grpcio-tools
+requests
+etcd3
+pymemcache
+apscheduler
+pyyaml
