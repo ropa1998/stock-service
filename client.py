@@ -4,7 +4,7 @@ import grpc
 from proto import stockService_pb2_grpc, stockService_pb2
 
 
-channel = grpc.insecure_channel('localhost:70071')
+channel = grpc.insecure_channel('localhost:40041')
 
 # create a stub (client)
 stub = stockService_pb2_grpc.StockServiceStub(channel)

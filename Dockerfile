@@ -2,6 +2,6 @@ FROM python
 WORKDIR /code
 COPY requirements.txt requirements.txt
 RUN pip install -r requirements.txt
-EXPOSE 70071
+EXPOSE 40041
 COPY . .
 CMD ["python", "server.py"]
