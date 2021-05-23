@@ -1,9 +1,13 @@
 name,country,price,count
 Coke,Argentina,10,5
 Sprite,Argentina,10,3
-Coke,Uruguay,11,6
-Sprite,Uruguay,11,1
 Water,Argentina,5,1
 Wine,Argentina,23,3
+Coke,Uruguay,11,6
+Sprite,Uruguay,11,1
 Water,Uruguay,5,9
 Wine,Uruguay,120,1
+Coke,United States,10,20
+Sprite,United States,12,4
+Water,United States,3,15
+Wine,United States,33,2
