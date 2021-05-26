@@ -1,4 +1,4 @@
-# stock-service
+# Stock-Service
 A small service to simulate a product catalog, made with grpc and python
  
  ## Build proto files
